@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a simple personal website
-- 🌱 I’m currently learning Kubernetes
 - 💬 Ask me about the New York Yankees (even though last season wasn't great)
 - 📫 How to reach me: Reach out on LinkedIn!
 - 😄 Pronouns: He/him
